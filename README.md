@@ -1,8 +1,8 @@
 
-LED-strip_90.0x3.6mm
-=====================
+LED-strip_90x4mm
+================
 
-LAYOUT FILES: 90.0mm x 3.6mm LED strip with 9x 0805 LEDs + resistors
+LAYOUT FILES: 90mm x 4mm LED strip with 9x 0805 LEDs + resistors
 
 
 ---
