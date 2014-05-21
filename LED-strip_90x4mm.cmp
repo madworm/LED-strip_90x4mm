@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-05-18 BZR 4870)-product   date = Mon 19 May 2014 12:27:19 AM CEST
+Cmp-Mod V01 Created by Cvpcb (2014-05-21 BZR 4876)-product   date = Wed 21 May 2014 08:39:01 PM CEST
 
 BeginCmp
 TimeStamp = /53789276;
@@ -64,6 +64,69 @@ IdModule  = my_parts:MADW__CHIPLED-0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /537CFF4E;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF54;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF5A;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF6D;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF73;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF79;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF8C;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF92;
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF98;
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = my_parts:MADW__CHIPLED-0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /5378944E;
 Reference = P1;
 ValeurCmp = CONN_2;
@@ -106,6 +169,48 @@ IdModule  = my_parts:MADW__SIL-2;
 EndCmp
 
 BeginCmp
+TimeStamp = /537D0CC5;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = my_parts:MADW__SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0CD9;
+Reference = P8;
+ValeurCmp = CONN_2;
+IdModule  = my_parts:MADW__SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0CED;
+Reference = P9;
+ValeurCmp = CONN_2;
+IdModule  = my_parts:MADW__SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0CCB;
+Reference = P10;
+ValeurCmp = CONN_2;
+IdModule  = my_parts:MADW__SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0CDF;
+Reference = P11;
+ValeurCmp = CONN_2;
+IdModule  = my_parts:MADW__SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537D0CF3;
+Reference = P12;
+ValeurCmp = CONN_2;
+IdModule  = my_parts:MADW__SIL-2;
+EndCmp
+
+BeginCmp
 TimeStamp = /53789382;
 Reference = R1;
 ValeurCmp = R;
@@ -122,6 +227,27 @@ EndCmp
 BeginCmp
 TimeStamp = /53789B75;
 Reference = R3;
+ValeurCmp = R;
+IdModule  = my_parts:MADW__R0603_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF60;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = my_parts:MADW__R0603_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF7F;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = my_parts:MADW__R0603_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /537CFF9E;
+Reference = R6;
 ValeurCmp = R;
 IdModule  = my_parts:MADW__R0603_2;
 EndCmp
